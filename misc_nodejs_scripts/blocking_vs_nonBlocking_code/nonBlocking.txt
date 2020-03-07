@@ -1,0 +1,3 @@
+Non-blocking is when the execution of additional JavaScript in the Node.js process does NOT wait until a non-JavaScript operation completes. The event loop is able to continue running JavaScript while an operation is occurring.
+
+Non-blocking methods execute asynchronously. 
